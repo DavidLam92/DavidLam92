@@ -14,7 +14,6 @@ I am an IT Professional with an interest in technology and helping people.
 I have always been fascinated by technology and through my role at the help desk I was introduced into the field of cybersecurity. I now am eawerly looking forward to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
