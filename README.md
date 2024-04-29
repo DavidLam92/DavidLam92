@@ -34,7 +34,7 @@ I have always been fascinated by technology and through my role at the help desk
 ## Certifications
 
 <div>
-  <a href="https://www.credly.com/badges/64a769ef-e4af-4698-97d7-8e47b6e827d9/public_url" target="_blank">
+  <a href="https://www.credly.com/badges/64a769ef-e4af-4698-97d7-8e47b6e827d9/" target="_blank">
     <img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
   </a>
 </div>
