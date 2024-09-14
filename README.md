@@ -11,7 +11,7 @@ I am an IT Professional with an interest in technology and helping people.
 
 ## Objective
 
-I have always been fascinated by technology and through my role at the help desk I was introduced into the field of cybersecurity. I now am eagerly looking forward to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I have always been fascinated by technology and through my role at the help desk I was introduced into the field of cybersecurity. I now am eagerly looking forward to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or an IT Auditor/GRC role.
 
 ## Skills
 
